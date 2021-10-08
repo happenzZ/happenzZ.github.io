@@ -7051,9 +7051,9 @@ a.text-dark:hover, a.text-dark:focus {
     .m-header-container {
       max-width: 920px; } }
 
-::selection {
+/* ::selection {
   background: #262a30;
-  color: white; }
+  color: white; } */
 
 html {
   scroll-behavior: smooth;
