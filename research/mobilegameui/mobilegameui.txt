@@ -1,0 +1,7 @@
+@inproceedings{li2021understanding,
+  title={Understanding Players’ Interaction Patterns with Mobile Game App UI via Visualizations},
+  author={Li, Quan and Zeng, Haipeng and Peng, Zhenhui and Ma, Xiaojuan},
+  booktitle={Proceedings of the 2021 Chinese CHI Conference on Human Factors in Computing Systems},
+  pages={1--13},
+  year={2021}
+}
