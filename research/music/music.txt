@@ -1,0 +1,8 @@
+@misc{chen2023amplifying,
+      title={Amplifying the Music Listening Experience through Song Comments on Music Streaming Platforms}, 
+      author={Longfei Chen and Qianyu Liu and Chenyang Zhang and Yangkun Huang and Zhenhui Peng and Haipeng Zeng and Zhida Sun and Xiaojuan Ma and Quan Li},
+      year={2023},
+      eprint={2308.04022},
+      archivePrefix={arXiv},
+      primaryClass={cs.HC}
+}

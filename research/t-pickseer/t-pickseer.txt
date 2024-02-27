@@ -1,0 +1,8 @@
+@misc{gu2023tpickseer,
+      title={T-PickSeer: Visual Analysis of Taxi Pick-up Point Selection Behavior}, 
+      author={Shuxian Gu and Yemo Dai and Zezheng Feng and Yong Wang and Haipeng Zeng},
+      year={2023},
+      eprint={2310.18635},
+      archivePrefix={arXiv},
+      primaryClass={cs.HC}
+}
