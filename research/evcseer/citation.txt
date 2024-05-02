@@ -1,0 +1,10 @@
+@article{zeng2024evcseer,
+   title={EVCSeer: An Exploratory Study on Electric Vehicle Charging Stations Utilization via Visual Analytics},
+   url={TBD},
+   DOI={TBD},
+   journal={IEEE Computer Graphics and Applications},
+   publisher={Institute of Electrical and Electronics Engineers (IEEE)},
+   author={Zhang, Yutian and Gu, Shuxian and Li, Quan and Zeng, Haipeng},
+   year={2024},
+   pages={1–1}
+}

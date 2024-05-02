@@ -1,10 +1,12 @@
-@article{zeng2022gesturelens,
+@article{zeng2023gesturelens,
    title={GestureLens: Visual Analysis of Gestures in Presentation Videos},
-   url={http://dx.doi.org/10.1109/TVCG.2022.3169175},
+   url={https://ieeexplore.ieee.org/document/9761750},
    DOI={10.1109/TVCG.2022.3169175},
    journal={IEEE Transactions on Visualization and Computer Graphics},
-   publisher={Institute of Electrical and Electronics Engineers (IEEE)},
+   publisher={IEEE},
    author={Zeng, Haipeng and Wang, Xingbo and Wang, Yong and Wu, Aoyu and Pong, Ting Chuen and Qu, Huamin},
-   year={2022},
-   pages={1–1}
+   year={2023},
+   volume={29},
+   number={8},
+   pages={3685-3697}
 }
