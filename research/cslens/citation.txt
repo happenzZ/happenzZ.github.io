@@ -1,0 +1,11 @@
+@article{zhang2024cslens,
+  title={CSLens: Towards Better Deploying Charging Stations via Visual Analytics -- A Coupled Networks Perspective},
+  url={https://www.computer.org/csdl/journal/tg/5555/01/10670473/207JC702wPm},
+  DOI={10.1109/TVCG.2024.3456392},
+  journal={IEEE Transactions on Visualization and Computer Graphics},
+  publisher={IEEE},
+  author={Zhang, Yutian and Xu, Liwen and Tao, Shaocong and Guan, Quanxue and Li, Quan and Zeng Haipeng},
+  year={2024}, 
+  pages={1–1}
+}
+
