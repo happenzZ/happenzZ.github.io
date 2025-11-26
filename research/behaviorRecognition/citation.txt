@@ -1,0 +1,11 @@
+@article{zeng2025huge,
+  title={HuGe: Towards Human-controllable image Generation in autonomous driving},
+  doi = {https://doi.org/10.1016/j.visinf.2025.100262},
+  url = {https://www.sciencedirect.com/science/article/pii/S2468502X25000452},
+  journal={Visual Informatics},
+  publisher={Elsevier},
+  author={Zeng, Yuanzhi and Chen, Shiwei and Zhang, Yutian and Sun, Dong and Wang, Yong and Zeng, Haipeng},
+  pages = {100262},
+  year = {2025},
+  issn = {2468-502X},
+}
