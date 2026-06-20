@@ -1,0 +1,8 @@
+@article{zheng2026cooperative,
+  title={Cooperative decision-making in mixed traffic via conflict-aware Heterogeneous Graph Reinforcement Learning},
+  author={Zheng, Guohong and Chen, Yiyang and Wu, Zhigang and He, Zhaocheng and Zeng, Haipeng},
+  journal={Simulation Modelling Practice and Theory},
+  pages={103268},
+  year={2026},
+  publisher={Elsevier}
+}

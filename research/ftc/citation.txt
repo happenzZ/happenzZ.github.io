@@ -1,0 +1,9 @@
+@article{wu2026fault,
+  title={Fault-tolerant collaboration: A hierarchical control framework for traffic-communication systems at intersections with human-machine hybrid driving},
+  author={Wu, Zhigang and Zeng, Haipeng and Wen, Di and Xu, Huanting and He, Zhaocheng},
+  journal={Expert Systems with Applications},
+  volume={314},
+  pages={131656},
+  year={2026},
+  publisher={Elsevier}
+}

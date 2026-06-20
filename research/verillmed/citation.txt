@@ -1,0 +1,6 @@
+@article{xiang2026verillmed,
+  title={VeriLLMed: Interactive Visual Debugging of Medical Large Language Models with Knowledge Graphs},
+  author={Xiang, Yurui and Mao, Xingyi and Sheng, Rui and Chen, Zixin and Zang, Zelin and Wu, Yuyang and Zeng, Haipeng and Qu, Huamin and Sun, Yushi and Lin, Yanna},
+  journal={arXiv preprint arXiv:2604.23356},
+  year={2026}
+}

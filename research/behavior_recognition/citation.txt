@@ -1,0 +1,10 @@
+@article{xu2025behavior,
+  title={Behavior recognition in non-motorized traffic using deep embedded contrastive clustering from GPS trajectories},
+  author={Xu, Huanting and Zeng, Haipeng and Wu, Zhigang and Xing, Wangyong and He, Zhaocheng},
+  journal={Transportmetrica B: Transport Dynamics},
+  volume={13},
+  number={1},
+  pages={2556746},
+  year={2025},
+  publisher={Taylor \& Francis}
+}

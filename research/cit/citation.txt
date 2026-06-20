@@ -1,0 +1,7 @@
+@inproceedings{zhao2025cross,
+  title={Cross Time Domain Intention Interaction for Conditional Trajectory Prediction},
+  author={Zhao, Yuxiang and Huang, Wei and Zeng, Haipeng and Zhao, Huan and Song, Yujie},
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
+  pages={25--33},
+  year={2025}
+}

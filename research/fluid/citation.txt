@@ -1,0 +1,7 @@
+@article{chen2026fine,
+  title={A Fine-Grained Lightweight Urban Signalized-Intersection Dataset of Dense Conflict Trajectories},
+  author={Chen, Yiyang and Wu, Zhigang and Zheng, Guohong and Wu, Xuesong and Xu, Liwen and Tang, Haoyuan and He, Zhaocheng and Zeng, Haipeng},
+  journal={Scientific Data},
+  year={2026},
+  publisher={Nature Publishing Group UK London}
+}

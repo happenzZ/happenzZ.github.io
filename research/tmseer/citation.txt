@@ -1,0 +1,8 @@
+@article{zeng2026tmseer,
+  title={TMSeer: Visual analysis of city-level travel modes using cellular signaling data},
+  author={Zeng, Yuanzhi and Gu, Shuxian and Chen, Shiwei and Wang, Yong and Zeng, Haipeng},
+  journal={Visual Informatics},
+  pages={100310},
+  year={2026},
+  publisher={Elsevier}
+}
