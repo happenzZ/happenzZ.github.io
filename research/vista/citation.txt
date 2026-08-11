@@ -1,0 +1,7 @@
+@article{zeng2026vista,
+  title={VISTA: Exploring Vertiport Site Selection with Visual Analytics},
+  author={Zeng, Haipeng and Huang, Wei and Zhu, Xingyu and Peng, Yanqing and Shi, Wenjie and Li, Quan and Zhou, Shaorui},
+  journal={IEEE Transactions on Visualization and Computer Graphics},
+  year={2026},
+  publisher={IEEE}
+}
